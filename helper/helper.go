@@ -3,7 +3,7 @@ package helper
 import (
 	"encoding/base64"
 	"encoding/json"
-	"github.com/simabdi/go-jwt-auth/internal/model"
+	"github.com/simabdi/go-jwt-auth/model"
 	"log"
 	"os"
 	"time"

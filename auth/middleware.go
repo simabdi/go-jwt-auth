@@ -3,7 +3,7 @@ package auth
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/simabdi/go-jwt-auth/internal/helper"
+	"github.com/simabdi/go-jwt-auth/helper"
 	"net/http"
 	"strings"
 )

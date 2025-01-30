@@ -3,7 +3,7 @@ package exception
 import (
 	"github.com/go-sql-driver/mysql"
 	"github.com/gofiber/fiber/v2"
-	"github.com/simabdi/go-jwt-auth/internal/model"
+	"github.com/simabdi/go-jwt-auth/model"
 	"net"
 	"net/http"
 )

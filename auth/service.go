@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/joho/godotenv"
-	"github.com/simabdi/go-jwt-auth/internal/helper"
+	"github.com/simabdi/go-jwt-auth/helper"
 	"log"
 	"os"
 	"strconv"
